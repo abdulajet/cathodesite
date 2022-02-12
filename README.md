@@ -1,2 +1,3 @@
 # trmsite
-Website for TRM
+
+To join the waitlist tweet @abdulajet and ill consider it
