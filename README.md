@@ -1,8 +1,7 @@
-# trmsite
+# Cathode
 
-To join the waitlist tweet [@abdulajet](https://twitter.com/abdulajet) and ill consider it
-
+Cathode is a simple and miniminalist way to few train departures from your frequented stations for the Apple platforms.
 
 ## Privacy
 
-All data is stored locally on your device or on Twitter's servers. To revoke Twitter access for TRM you can do so on [Twitter](https://twitter.com/settings/connected_apps). The TRM server does not store any logs.
+All data is stored locally on your device. No logs or location data is kept on the server.
